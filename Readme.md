@@ -11,7 +11,7 @@ Esse projeto implementa os fluxos de automação de api para obter o clima atrav
 
 ## Arquitetura do projeto
 
-Toda descrição e explicação sobre a arquitetura do projeto pode ser vista [aqui](https://drive.google.com/file/d/1JnrR4z01-a3m4alm7hE7L8k_z_Q3N7oa/view?usp=sharing). 
+Toda descrição e explicação sobre a arquitetura do projeto pode ser vista [aqui](https://drive.google.com/drive/u/0/folders/1TgZtpdo3FJ0V23MAdVD8fcjvL1tS6uBM). 
 
 
 ## Execução
